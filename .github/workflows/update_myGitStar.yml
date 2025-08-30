@@ -1,4 +1,4 @@
-name: Update myGitStar
+name: Update Github_Starred
 
 on:
   schedule:
@@ -18,6 +18,7 @@ jobs:
         run: pip install starred
       - name: Generate README.md
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           STARRED_GITHUB_TOKEN: ${{ secrets.STARRED_GITHUB_TOKEN }}
         run: |
           starred --username WuXiangM --token $STARRED_GITHUB_TOKEN --topic > README.md # --topic/sort 主题/语言分类
