@@ -47,6 +47,7 @@
 - [html5](#html5)
 - [rust](#rust)
 - [vue](#vue)
+- [cloud](#cloud)
 - [cli](#cli)
 - [crawler](#crawler)
 - [markdown](#markdown)
@@ -383,6 +384,11 @@
 ## vue 
 
 - [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
+
+## cloud 
+
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+- [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 
 ## cli 
 
