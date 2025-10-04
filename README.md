@@ -51,6 +51,7 @@
 - [cli](#cli)
 - [bash](#bash)
 - [zsh](#zsh)
+- [visualization](#visualization)
 - [crawler](#crawler)
 - [markdown](#markdown)
 - [automation](#automation)
@@ -406,6 +407,12 @@
 ## zsh 
 
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
+
+## visualization 
+
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
+- [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 
 ## crawler 
 
