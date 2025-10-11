@@ -64,6 +64,7 @@
 - [artificial-intelligence](#artificial-intelligence)
 - [telegram](#telegram)
 - [discord](#discord)
+- [youtube](#youtube)
 - [computer-science](#computer-science)
 - [software](#software)
 - [github](#github)
@@ -474,6 +475,10 @@
 ## discord 
 
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - 🤩 Easy-to-use global IM bot platform designed for LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT(GPT), De
+
+## youtube 
+
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 ## computer-science 
 
