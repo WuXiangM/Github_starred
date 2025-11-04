@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [font](#font)
 - [android](#android)
 - [kotlin](#kotlin)
 - [others](#others)
@@ -76,7 +77,6 @@
 - [p2p](#p2p)
 - [haskell](#haskell)
 - [publishing](#publishing)
-- [font](#font)
 - [aws](#aws)
 - [java](#java)
 - [database](#database)
@@ -87,6 +87,11 @@
 - [natural-language-processing](#natural-language-processing)
 - [stable-diffusion](#stable-diffusion)
 - [web](#web)
+
+## font 
+
+- [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 ## android 
 
@@ -531,10 +536,6 @@
 ## publishing 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-
-## font 
-
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 ## aws 
 
