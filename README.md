@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [font](#font)
 - [others](#others)
 - [ai](#ai)
 - [llm](#llm)
@@ -55,7 +56,6 @@
 - [chatgpt](#chatgpt)
 - [python3](#python3)
 - [image-processing](#image-processing)
-- [font](#font)
 - [android](#android)
 - [kotlin](#kotlin)
 - [chrome](#chrome)
@@ -113,6 +113,12 @@
 - [natural-language-processing](#natural-language-processing)
 - [stable-diffusion](#stable-diffusion)
 - [web](#web)
+
+## font 
+
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+- [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 ## others 
 
@@ -530,11 +536,6 @@
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) - Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
-
-## font 
-
-- [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 ## android 
 
