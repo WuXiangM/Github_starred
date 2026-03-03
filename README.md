@@ -62,6 +62,7 @@
 - [chrome-extension](#chrome-extension)
 - [analytics](#analytics)
 - [statistics](#statistics)
+- [fastapi](#fastapi)
 - [computer-vision](#computer-vision)
 - [shell](#shell)
 - [documentation](#documentation)
@@ -563,6 +564,10 @@
 ## statistics 
 
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+
+## fastapi 
+
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 
 ## computer-vision 
 
