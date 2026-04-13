@@ -218,7 +218,7 @@
 ## ai 
 
 - [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) - 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-d
-- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents) - MyAgents - 优雅、易用的通用Agent桌面端 ，融合AI工作台与主动型 Agent(龙虾)二合一的 Agent 任务中心。
+- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents) - MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心
 - [Narcooo/inkos](https://github.com/Narcooo/inkos) - Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -294,7 +294,7 @@
 
 ## ai-agents 
 
-- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents) - MyAgents - 优雅、易用的通用Agent桌面端 ，融合AI工作台与主动型 Agent(龙虾)二合一的 Agent 任务中心。
+- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents) - MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -303,7 +303,7 @@
 
 ## claude-code 
 
-- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents) - MyAgents - 优雅、易用的通用Agent桌面端 ，融合AI工作台与主动型 Agent(龙虾)二合一的 Agent 任务中心。
+- [hAcKlyc/MyAgents](https://github.com/hAcKlyc/MyAgents) - MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
