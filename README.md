@@ -36,6 +36,7 @@
 - [awesome-list](#awesome-list)
 - [awesome](#awesome)
 - [automation](#automation)
+- [developer-tools](#developer-tools)
 - [font](#font)
 - [music](#music)
 - [open-source](#open-source)
@@ -327,7 +328,7 @@
 - [jimmc414/Kosmos](https://github.com/jimmc414/Kosmos) - Kosmos: An AI Scientist for Autonomous Discovery - An implementation and adaptation to be driven by Claude Code or API - Based on the Kosmos AI Paper -  https://arxiv.org/abs/2511.02824
 - [Tosencen/XMSLEEP](https://github.com/Tosencen/XMSLEEP) - 一款白噪音应用送给你，祝您牛掰，有的是钱
 - [fogsightai/fogsight](https://github.com/fogsightai/fogsight) - Fogsight is an AI agent and animation engine powered by Large Language Models.
-- [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly 【Ucloud 6.9元 Coding Plan: http://compshare.cn/?ytag=GPU_YY_JL_git_zenfeed】
+- [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly   [gpt-5.5 -&gt; https://token.glidea.app 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
 - [facebookresearch/sam-3d-body](https://github.com/facebookresearch/sam-3d-body) - The repository provides code for running inference with the SAM 3D Body Model (3DB), links for downloading the trained model checkpoints and datasets, and example notebooks that show how to use the mo
 - [facebookresearch/sam-3d-objects](https://github.com/facebookresearch/sam-3d-objects) - SAM 3D Objects
 - [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园/掘金等网站,一键下载文章html或markdown文件;实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
@@ -490,6 +491,10 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+## developer-tools 
+
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## font 
 
